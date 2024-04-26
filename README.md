@@ -1,9 +1,5 @@
 # Jorvik Hotel API
 
-## Preview
-
-Preview available at: https://jorvik.world/
-
 ## Description
 
 The Jorvik Hotel API is designed to streamline the management processes 
